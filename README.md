@@ -1,6 +1,7 @@
 # Proyecto de Encriptación y Desencriptación
 
 Este proyecto web permite a los usuarios encriptar y desencriptar texto, proporcionando una interfaz intuitiva con botones para ambas acciones. El diseño es adaptable y responsivo, con una interfaz clara y moderna.
+![image](https://github.com/user-attachments/assets/17edc5e0-5153-47d0-897d-a1f0a707492e)
 
 ## Estructura del Proyecto
 
